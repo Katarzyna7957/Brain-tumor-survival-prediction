@@ -13,7 +13,7 @@ The goal is to use machine learning techniques to assist in medical prognosis by
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## 🧪 How It Works
+##  How It Works
 
 1. Data preprocessing and exploration
 2. Feature selection and model training
